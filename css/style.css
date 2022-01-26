@@ -121,3 +121,19 @@ tr:nth-child(7) :nth-child(3), tr:nth-child(9) td:nth-child(n+2):nth-child(-n+15
 tr:nth-child(7) :nth-child(3):hover, tr:nth-child(9) td:nth-child(n+2):nth-child(-n+15):hover {
     background-color: rgba(61, 161, 160, 1);
 }
+
+tr:nth-child(n+2):nth-child(-n+6) td:nth-child(17), tr:nth-child(7) :nth-child(15) {
+    background-color: rgba(215, 177, 62, 1);
+}
+
+tr:nth-child(n+2):nth-child(-n+6) td:nth-child(17):hover, tr:nth-child(7) :nth-child(15):hover {
+    background-color: rgba(215, 177, 62, 0.5);
+}
+
+tr:nth-child(n+1):nth-child(-n+6) td:nth-child(18), tr:nth-child(7) :nth-child(16) {
+    background-color: rgba(218, 139, 212, 1);
+}
+
+tr:nth-child(n+1):nth-child(-n+6) td:nth-child(18):hover, tr:nth-child(7) :nth-child(16):hover {
+    background-color: rgba(218, 139, 212, 0.5);
+}
