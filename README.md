@@ -5,3 +5,5 @@
 Exercising with HTML and CSS, I want now to build a Periodic table of the Elements and to try to make my High School Chemistry teacher will be proud...
 
 ![Periodic table of the Elements](./img/tableOfElements.png)
+
+#### You can see my take by clicking [here](https://vincenzoarena.github.io/elements/).
